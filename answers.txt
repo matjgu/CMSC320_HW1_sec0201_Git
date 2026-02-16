@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Q1: Why might we consider using Git?
 
 Answer: Git is an extremely helpful system for version control and tracking. Some examples of situations
 where it might prove especially useful include when you are collaborating with other programmers on the
 same project and want to debug someone else's contribution, or even individually if you make a change to
 your own code that creates new errors and want to go back to a previous version.
+=======
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science empowers people to make data-informed decisions, which is something applicable and
+potentially desirable to a wide variety of fields. One interesting use case is in language and literature,
+with an example being the use of machine learning on the textual data of Shakespeare's plays to determine
+where co-authorship may have occurred.
+>>>>>>> q2
