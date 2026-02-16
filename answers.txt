@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is an extremely helpful system for version control and tracking. Some examples of situations
+where it might prove especially useful include when you are collaborating with other programmers on the
+same project and want to debug someone else's contribution, or even individually if you make a change to
+your own code that creates new errors and want to go back to a previous version.
