@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science empowers people to make data-informed decisions, which is something applicable and
+potentially desirable to a wide variety of fields. One interesting use case is in language and literature,
+with an example being the use of machine learning on the textual data of Shakespeare's plays to determine
+where co-authorship may have occurred.
